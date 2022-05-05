@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="#f5f5f5">
+    <center>
+    <table border="1" cellspacing="5px" style="border-color:rgb(255, 0, 153)
+    ;">
+        <thead>
+                <th colspan="4" style="font-size: xx-large;"><a href="https://silveroakuni.ac.in/" target="_blank"  style="text-decoration: none;">silver oak university</a> data  </th>
+        </thead>
+        <tr>
+            <th style="font-family: Impact, Haettenschweiler, 'Arial Narrow ', sans-serif;"> Branch </th>
+            <th style="font-family: Impact, Haettenschweiler, 'Arial Narrow ', sans-serif;"> Enrollnment no.</th>
+            <th style="font-family: Impact, Haettenschweiler, 'Arial Narrow ', sans-serif;"> NAME </th>
+            <th style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">SPECIAL QUALITY</th>
+        </tr>
+        <tr>
+            <td rowspan="5" >
+                BCA
+            </td>
+            <td>
+                2104030100880
+            </td>
+            <td>
+                sanjay suthar
+            </td>
+            <td>
+                i love cricket
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2104030100031
+            </td>
+            <td>
+                Vikas bro
+            </td>
+            <td>
+                fastest typist in the world 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2104030100567
+            </td>
+            <td>
+                pawan yadav
+            </td>
+            <td>
+                best open speaker 
+            </td>
+        </tr>
+        <tr>
+
+            <td>
+                2104030100883
+            </td>
+            <td>
+               harish suthar
+            </td>
+            <td>
+                best business man 
+            </td>
+        </tr>
+
+
+
+    </table>
+</center>
+<ul>
+    <li>
+        Google 
+        <ul>
+            <li>
+                Gmail
+                <ol>
+                    sign in 
+                </ol>
+                <ol>
+                    sign out
+                </ol>
+            </li>
+        </ul>
+    </li>
+</ul>
+<dl>
+    <dt>
+        silver oak university
+    </dt>
+    <dd>
+        students data by sanjay
+    </dd>
+</dl>
+<a href=""></a>
+</body>
+</html>
